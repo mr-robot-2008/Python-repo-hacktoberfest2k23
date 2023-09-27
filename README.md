@@ -1,5 +1,6 @@
 # Welcome to the world of open source!
-![Hacktoberfest 2023](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
+
+![Hacktoberfest 2023](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg)
 
  Make your pull request in this repository as a contributor in Hackoctoberfest2023.🔥
 
@@ -20,6 +21,7 @@
 
 </div>
 
+![Hacktoberfest 2023](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
 # Instructions-
 
