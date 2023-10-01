@@ -24,6 +24,29 @@ def clear():
 def reset():
     t.reset()
 
+def circle(radius):
+    t.circle(radius)
+
+def square(side_length):
+    for _ in range(4):
+        forward(side_length)
+        right(90)
+
+def triangle(side_length):
+    for _ in range(3):
+        forward(side_length)
+        right(120)
+
+def pentagon(side_length):
+    for _ in range(5):
+        forward(side_length)
+        right(72)
+
+def hexagon(side_length):
+    for _ in range(6):
+        forward(side_length)
+        right(60)
+
 def main():
     # Set up the turtle screen
     t.speed(1)
@@ -38,11 +61,16 @@ def main():
         "PU": penup,
         "PD": pendown,
         "CLEAR": clear,
-        "RESET": reset
+        "RESET": reset,
+        "CIRCLE": circle,
+        "SQUARE": square,
+        "TRIANGLE": triangle,
+        "PENTAGON": pentagon,
+        "HEXAGON": hexagon
     }
 
     while True:
-        user_input = input("Enter Logo command (e.g., 'FD 100', 'RT 90', 'CLEAR', 'RESET', 'EXIT'): ").upper()
+        user_input = input("Enter Logo command (e.g., 'FD 100', 'RT 90', 'CLEAR', 'RESET', 'CIRCLE 50', 'SQUARE 80', 'EXIT'): ").upper()
         if user_input == "EXIT":
             break
 
