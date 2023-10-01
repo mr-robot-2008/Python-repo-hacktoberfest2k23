@@ -1,14 +1,14 @@
 import turtle as t
-#moves turtle forward by distance
+
 def forward(distance):
     t.forward(distance)
-#moves turtle backward by distance
+
 def backward(distance):
     t.backward(distance)
-#moves turtle left by angle
+
 def left(angle):
     t.left(angle)
-#moves turtle right by angle
+
 def right(angle):
     t.right(angle)
 
@@ -29,9 +29,8 @@ def circle(radius):
 
 def square(side_length):
     for _ in range(4):
-        forward(side_length) 
-        rightangle = 90
-        right(rightangle)
+        forward(side_length)
+        right(90)
 
 def triangle(side_length):
     for _ in range(3):
