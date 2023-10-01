@@ -50,7 +50,7 @@ def hexagon(side_length):
 def main():
     # Set up the turtle screen
     t.speed(1)
-    t.title("Extended Turtle Graphics")
+    t.title("MSWLogo-like Turtle Graphics")
 
     # Define commands
     commands = {
