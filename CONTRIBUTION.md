@@ -4,4 +4,5 @@
 | Naitik234 | https://github.com/Naitik234 |
 | Adarsh Santoria | https://github.com/AdarshSantoria |
 | Vicente Reyes | https://github.com/reyesvicente |
+|Rishab Bairi | https://github.com/RishabB54 |
 
