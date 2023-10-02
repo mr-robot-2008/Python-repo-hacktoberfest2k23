@@ -7,3 +7,8 @@
 | Rishab Bairi    | https://github.com/RishabB54      |
 | A B Veekshith   | https://github.com/ABveekshith    |
 | Pranav          | https://github.com/gitPranav09    |
+| Vicente Reyes | https://github.com/reyesvicente |
+|Rishab Bairi | https://github.com/RishabB54 |
+|A B Veekshith | https://github.com/ABveekshith |
+|Hritik Kumar | https://github.com/hritik-6918 |
+
