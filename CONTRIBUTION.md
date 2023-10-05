@@ -15,3 +15,4 @@
 |Hritik Kumar     | https://github.com/hritik-6918    |
 |Vibhu Dawar      | https://github.com/vibhudawar     |
 |Atharva Bhangre  | https://github.com/atharvabb      |
+|Akhil Sharma     | https://github.com/Printakhil     |
